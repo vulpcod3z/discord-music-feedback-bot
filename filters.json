@@ -1,0 +1,25 @@
+{
+  "filetypes": [
+    ".mp3",
+    ".mp4",
+    ".m4a",
+    ".wav",
+    ".flac"
+  ],
+    "links": [
+      "youtube",
+      "spotify",
+      "soundcloud",
+      "bandcamp",
+      "instagram",
+      "dropbox",
+      "drive.google.com/file",
+      "soundtrap",
+      ".club",
+      "clyp.it",
+      "app.matter.online",
+      "youtu.be",
+      "reverbnation",
+      "last.fm/music/"
+    ]
+}
